@@ -1,6 +1,6 @@
 ## Factorio maps
-[248k](https://test.mikwit.com/factorio/248k/index.html)
-
+[248k](/factorio/248k/index.html)
+[2021-team-space](/factorio/2021-team-space/index.html)
 
 ## Welcome to GitHub Pages
 
