@@ -1,4 +1,4 @@
-## Factorio maps
+## Test
 
 [202205](/factorio/202205/index.html)
 
