@@ -1,5 +1,7 @@
 ## Factorio maps
 
+[202205](/factorio/202205/index.html)
+
 [248k](/factorio/248k/index.html)
 
 [2021-team-space](/factorio/2021-team-space/index.html)
